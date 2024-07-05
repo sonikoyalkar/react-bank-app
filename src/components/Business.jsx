@@ -34,7 +34,7 @@ const Business = () => {
             building credit, earning rewards and saving money. But with hundreds
             of credit cards on the market.
           </p>
-          <CommonButton btnText="get started" />
+          <CommonButton btnText="let started" />
         </div>
 
         <div className="flex flex-col gap-5 flex-1">
@@ -49,6 +49,16 @@ const Business = () => {
             desc="We take proactive steps make sure your information and transactions are secure."
           />
           <BusinessCard
+            icon={<GiBanknote />}
+            title="Balance Transfgi"
+            desc="A balance transfer credit card can save you a lot of money in interest charges."
+          />
+           <BusinessCard
+            icon={<GiBanknote />}
+            title="Balance Transfgi"
+            desc="A balance transfer credit card can save you a lot of money in interest charges."
+          />
+           <BusinessCard
             icon={<GiBanknote />}
             title="Balance Transfgi"
             desc="A balance transfer credit card can save you a lot of money in interest charges."

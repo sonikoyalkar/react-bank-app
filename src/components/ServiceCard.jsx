@@ -23,11 +23,11 @@ const ServiceCard = () => {
             <CommonTitle title="Let's try our service now!" />
             <p className="max-w-[470px] mt-4 sm:mt-8">
               Everything you need to accept card payments and grow your business
-              anywhere on the planet. Get Started
+              anywhere on the planet. let Started
             </p>
           </div>
           <div>
-            <CommonButton btnText="get started" />
+            <CommonButton btnText="Let started" />
           </div>
         </div>
       </div>

@@ -17,7 +17,7 @@ const Bill = () => {
           <CommonTitle title="Easily control your billing & invoicing" />
           <p className="text-dimWhite leading-relaxed text-base ss:text-lg">
             How much money do you leave on the table each month? Too many
-            businesses “forget” to bill all hours worked. With HooBank, you can
+            businesses <b>“Soni” </b>to bill all hours worked. With HooBank, you can
             keep track of any invoices, generate them more quickly and bill any
             type of pricing structure to meet clients needs. As a bonus, you can
             explore new pricing models and compare their viability. Stop the

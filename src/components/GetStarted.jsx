@@ -9,7 +9,7 @@ const GetStarted = () => {
       <div className="md:w-[135px] sm:w-[175px] md:h-[135px] sm:h-[175px] w-[85px] h-[85px] bg-primary rounded-full flex items-center justify-center">
         <p className="text-sm sm:text-2xl md:text-xl text-gradient text-center font-semibold">
           <span className="flex items-center">
-            get <HiMiniArrowUpRight className="text-2xl" />
+            Let <HiMiniArrowUpRight className="text-2xl" />
           </span>
           started
         </p>

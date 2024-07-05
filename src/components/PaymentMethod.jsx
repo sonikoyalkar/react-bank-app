@@ -24,8 +24,10 @@ const PaymentMethod = () => {
             <Steps title="Choose the carding type that suits your needs" />
             <Steps title="Don't double entry, interconnect to your accounting system" />
             <Steps title="Speed up month-end closing with a rigorous invoicing process" />
+            <Steps title="Choose the carding type that suits your needs" />
+            <Steps title="Don't double entry, interconnect to your accounting system" />
           </div>
-          <CommonButton btnText="get started" />
+          <CommonButton btnText="Let started" />
         </div>
 
         <div className="flex-1">

@@ -29,7 +29,7 @@ const ScrollTop = () => {
         onClick={scrollToTop}
         ref={arrow}
       >
-        <BsArrowUp className="text-xl active:text-lg text-black" />
+        <BsArrowUp className="text-xl active:text-lg text-blue" />
       </button>
     </div>
   );

@@ -18,21 +18,20 @@ const Hero = () => {
 
         <div className="relative">
           <h1 className="text-[3.3rem] sm:text-6xl leading-snug sm:leading-normal md:text-7xl md:leading-snug font-[600] font-poppins">
-            The Next <br className="md:block hidden" />{" "}
-            <span className="text-gradient">Generation</span>{" "}
-            <br className="md:block hidden " /> Payment{" "}
+            This page  <br className="md:block hidden" />{" "}
+            <span className="text-gradient">Designed</span>{" "}
+            <br className="md:block hidden " /> By Soni{" "}
             <br className="md:block hidden " />
-            Method.
+            Sample work.
           </h1>
-          <div className="absolute top-0 left-[350px] md:left-[400px] md:block hidden">
+          <div className="absolute top-0 left-[550px] md:left-[400px] md:block hidden">
             <GetStarted />
           </div>
         </div>
 
         <p className="text-base sm:text-lg md:text-xl text-dimWhite sm:mt-5 md:max-w-[470px]">
-          Our team of experts uses a methodology to identify the credit cards
-          most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+         Talent wins games, but teamwork and intelligence win championships  Michael Jordan.
+Teamwork is the ability to work together toward a common vision.
         </p>
       </div>
 

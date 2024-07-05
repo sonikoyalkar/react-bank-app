@@ -9,7 +9,12 @@ const Testimonials = () => {
         <p className="text-dimWhite md:text-lg text-base">
           Everything you need to accept card payments and grow your business
           anywhere on the planet.
+          Everything you need to accept card payments and grow your business
+          anywhere on the planet.
+          Everything you need to accept card payments and grow your business
+          anywhere on the planet.
         </p>
+        
         <div className="grid ss:grid-cols-2 md:grid-cols-3 gap-10 ss:gap-5 sm:gap-10 mt-10 sm:mt-16">
           {testimonials.map((item) => {
             const { id, about, image, name, title } = item;
@@ -37,7 +42,7 @@ const Testimonials = () => {
             );
           })}
         </div>
-        <div className="absolute w-[20%] h-[40%] rounded-full right-0 top-40 blue__gradient"></div>
+        <div className="absolute w-[20%] h-[40%] rounded-full right-0 top-40 Red__gradient"></div>
       </div>
     </section>
   );
